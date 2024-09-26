@@ -13,6 +13,8 @@
   </div>
 
   <h3 align="center">A Zoom Clone</h3>
+  <hr>
+  <hr>
 
 </div>
 
