@@ -1,7 +1,6 @@
 <div align="center">
-<br>
+
 <img width="1437" alt="Screenshot 2024-09-29 at 10 01 07 PM" src="https://github.com/user-attachments/assets/941cd5fc-12af-4a46-93b4-3eabce57e90e">
-<br>
 <br>
 <br>
 
